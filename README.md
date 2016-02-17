@@ -1,4 +1,4 @@
-## `babel-preset-evturn`
+`npm install --save-dev babel-preset-evturn`
 
 Babel plugins in this preset include:
 
