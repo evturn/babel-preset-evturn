@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-evturn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Babel preset for ES*",
   "author": "Evan Turner <ev@evturn.com>",
   "main": "index.js",
