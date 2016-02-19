@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/babel-preset-evturn.svg)](https://badge.fury.io/js/babel-preset-evturn)
+[![npm version](https://badge.fury.io/js/babel-preset-evturn.svg)](https://www.npmjs.com/package/babel-preset-evturn)
 
 ### Install
 
