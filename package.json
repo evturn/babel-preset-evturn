@@ -15,7 +15,12 @@
     "babel",
     "babel-preset",
     "ES2015",
-    "ES2016"
+    "ES2016",
+    "decorators",
+    "rest-spread",
+    "ES6",
+    "ES7",
+    "ESNext"
   ],
   "author": "Evan Turner <ev@evturn.com>",
   "license": "ISC",
