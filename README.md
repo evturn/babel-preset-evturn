@@ -31,7 +31,7 @@ npm install --save-dev babel-core babel-preset-evturn
 ```
 
 ```javascript
-// Loaded babel in a separate file and require in your entry file
+// Register babel in a separate file and require in your entry file
 require('babel-core/register')({});
 require('./your-app');
 ```
