@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/babel-preset-evturn.svg)](https://badge.fury.io/js/babel-preset-evturn)
+
 `npm install --save-dev babel-preset-evturn`
 
 Babel plugins in this preset include:
